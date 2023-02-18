@@ -21,10 +21,6 @@
   margin-left: 30px;
   margin-top: 15px;
   margin-right: 30px;
-  /*  grid-template: auto/repeat(
-    auto-fill,
-    minmax(max(var(--min-column-width), 25%), 1fr)
-  ); */
 }
 
 /* RECOMMENDATIONS 
