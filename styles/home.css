@@ -1,5 +1,5 @@
 .home-section {
-  margin-left: 240px;
+  margin-left: 260px;
   margin-bottom: 90px;
 }
 
@@ -31,7 +31,7 @@
   display: flex;
   flex-direction: column;
   margin-left: 30px;
-  margin-top: 20px;
+  margin-top: 30px;
   margin-right: 30px;
 }
 
@@ -40,6 +40,10 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 15px;
+}
+
+.first-row {
+  margin-top: 6px;
 }
 
 .recent-playlist {
@@ -74,6 +78,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-top: 6px;
 }
 
 .recommended-playlist {
